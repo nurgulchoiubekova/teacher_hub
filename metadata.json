@@ -1,0 +1,6 @@
+{
+  "name": "Teacher Hub",
+  "description": "Мугалимдер үчүн заманбап веб-платформа. Сабак пландары, тесттер, ачык сабактар, презентациялар жана AI жардамчы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
